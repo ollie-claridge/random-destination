@@ -1,0 +1,18 @@
+.destination-box{
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    background-color: white;
+    margin: 50px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+
+}
