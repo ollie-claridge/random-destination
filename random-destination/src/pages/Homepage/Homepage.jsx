@@ -6,12 +6,15 @@ function homepage() {
     <div className='homepage'>
         <div className="destination-box">
             <h2>Travel Destination</h2>
+            <div className="destination">
             <div className="destination-picture">
 (picture)
             </div>
             <div className="destination-info">
 (info)
+            </div>  
             </div>
+
         </div>
     </div>
   )
