@@ -6,7 +6,7 @@ function header() {
   return (
     <div className='header'>
         <div className="logo">
-        <h2>Random Destinations</h2>
+        <h2>Find'a'Flight</h2>
         </div>
         <div className="nav-bar">
         Places to go
